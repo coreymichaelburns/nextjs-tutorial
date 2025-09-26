@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "prettier" // <--- MUST be the last extension to ensure it overrides conflicting rules
+  ]
+}
